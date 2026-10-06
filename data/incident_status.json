@@ -1,0 +1,20 @@
+[
+    {
+        "alert_id": 1,
+        "status": "Investigating",
+        "notes": "Analyst started investigation.",
+        "updated_at": "2026-10-06 14:11:45"
+    },
+    {
+        "alert_id": 2,
+        "status": "Open",
+        "notes": "",
+        "updated_at": ""
+    },
+    {
+        "alert_id": 3,
+        "status": "Open",
+        "notes": "",
+        "updated_at": ""
+    }
+]

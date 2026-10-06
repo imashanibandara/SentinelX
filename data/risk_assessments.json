@@ -1,0 +1,32 @@
+[
+    {
+        "alert_id": 1,
+        "timestamp": "2026-10-06 16:11:38",
+        "alert_type": "Brute Force Attack",
+        "source_ip": "203.0.113.99",
+        "attempts": 3,
+        "severity": "HIGH",
+        "risk_score": 93,
+        "risk_level": "CRITICAL"
+    },
+    {
+        "alert_id": 2,
+        "timestamp": "2026-10-06 16:11:38",
+        "alert_type": "Suspicious IP Activity",
+        "source_ip": "203.0.113.99",
+        "attempts": 3,
+        "severity": "MEDIUM",
+        "risk_score": 58,
+        "risk_level": "MEDIUM"
+    },
+    {
+        "alert_id": 3,
+        "timestamp": "2026-10-06 16:11:38",
+        "alert_type": "Account Login Attack",
+        "source_ip": "Multiple",
+        "attempts": 3,
+        "severity": "HIGH",
+        "risk_score": 90,
+        "risk_level": "CRITICAL"
+    }
+]

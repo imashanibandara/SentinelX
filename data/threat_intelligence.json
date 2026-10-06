@@ -1,0 +1,18 @@
+[
+    {
+        "ip_address": "203.0.113.45",
+        "reputation": "Malicious",
+        "threat_type": "Brute Force Source",
+        "confidence": 95,
+        "country": "Unknown",
+        "status": "Blacklisted"
+    },
+    {
+        "ip_address": "203.0.113.99",
+        "reputation": "Suspicious",
+        "threat_type": "Suspicious Login Activity",
+        "confidence": 80,
+        "country": "Unknown",
+        "status": "Watchlist"
+    }
+]
